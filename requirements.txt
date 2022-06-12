@@ -1,6 +1,16 @@
+dj-database-url==0.5.0
+dj-email-url==1.0.5
 Django==2.2.1
+django-cache-url==3.4.2
 django-crispy-forms==1.13.0
+environs==8.0.0
+gunicorn==20.1.0
+marshmallow==3.16.0
+packaging==21.3
 Pillow==9.1.1
 psycopg2==2.9.3
+pyparsing==3.0.9
+python-dotenv==0.20.0
 pytz==2022.1
 sqlparse==0.4.2
+whitenoise==6.2.0
